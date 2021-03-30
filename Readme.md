@@ -15,13 +15,13 @@ If you find this code helpful in your research please cite the following paper:
 }
 ```
 
-## Requirements
+## Install
 
-conda create --name <env_name> # Create virtual environment - optional
-conda install -c conda-forge scikit-learn
-conda install numpy
-conda install pytorch torchvision cudatoolkit=9.2 -c pytorch
-pip install torchsummary
+conda create --name <env_name> # Create virtual environment - optional <br>
+conda install -c conda-forge scikit-learn <br>
+conda install numpy <br>
+conda install pytorch torchvision cudatoolkit=9.2 -c pytorch <br>
+pip install torchsummary <br>
 
 ## Downloading datasets and models
 
