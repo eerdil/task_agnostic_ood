@@ -31,6 +31,6 @@ Download the [pre-trained models](https://www.dropbox.com/s/6athtgl3e9t3gku/pre_
 
 ## How to run
 
-CIFAR10 - python main_train.py config/cifar10/cifar10_kde_cfg_01.py
+python main_train.py config/cifar10/cifar10_kde_cfg_01.py # Running on CIFAR10 dataset
 
-CIFAR100 - python main_train.py config/cifar100/cifar100_kde_cfg_01.py
+python main_train.py config/cifar100/cifar100_kde_cfg_01.py # Running on CIFAR100 dataset
